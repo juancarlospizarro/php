@@ -3,7 +3,7 @@
 </head>
 <body>
 <?php 
-  $nombre = "Israel";
+  $nombre = "Juan Carlos";
   echo "Mi nombre es $nombre";
 ?>
 </body>
